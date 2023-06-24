@@ -1,6 +1,6 @@
 - I'm FoxLogic,
 - I love making commercial software, machine learning and data/statistics
-- My preferred language is Python but I'm good with C++ and java too
+- My preferred language is Python but I'm good with C++ too
 - I'm learning basic web development and backend javascript
   
 <!---
